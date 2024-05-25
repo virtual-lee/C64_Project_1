@@ -1,0 +1,13 @@
+{
+    "name": "C64_Project_1",
+    "description": "Project C64_Project_1",
+    "toolkit": "basic",
+    "sources": [
+        "src/main.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
